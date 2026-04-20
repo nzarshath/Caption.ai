@@ -1,0 +1,1 @@
+ALTER TABLE public.document_verifications ADD COLUMN IF NOT EXISTS image_data TEXT;
